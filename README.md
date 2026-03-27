@@ -67,3 +67,12 @@ mapa_calor.ipynb
 
 └── 
 README.md
+
+
+## 🌍 Visualização do mapa
+
+O GitHub não renderiza mapas interativos diretamente no notebook.
+
+👉 Clique no link abaixo para visualizar:
+
+[🔗 Abrir mapa interativo](./mapa_acidentes.html)
