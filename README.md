@@ -58,15 +58,17 @@ Neste projeto, eu utilizei um dataset mais robusto contendo:
 
 ## 📂 Estrutura do projeto
 
-mapa-acidentes/
-│
+```text
+├── Mapa_de_Calor_de_Acidentes_de_Trânsito.ipynb   # notebook principal
+├── mapa_acidentes.html                            # mapa interativo gerado
+└── README.md
+```
 
-├── 
+---
 
-mapa_calor.ipynb
+## 👨‍💻 Autor
 
-└── 
-README.md
+**Rodrigo Rocha** — [GitHub](https://github.com/Rodrigoldarocha) · [LinkedIn](https://www.linkedin.com/in/rodrigo-rocha-19249170/)
 
 
 ## 🌍 Visualização do mapa
